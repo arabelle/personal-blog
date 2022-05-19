@@ -35,7 +35,7 @@ social:
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-persephone
+remote_theme: erlzhang/jekyll-theme-persephone
 theme_setting:
   blog_page: "index.markdown"
 
