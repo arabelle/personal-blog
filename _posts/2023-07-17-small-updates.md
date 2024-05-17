@@ -3,6 +3,7 @@ layout: post
 title: "small updates"
 date: 2023-07-17 14:46:00
 categories: "2023"
+published: false
 ---
 
 I realize after not posting on this blog for a while it is a bit daunting to return, so here is my compromise. A bullet point list of some life updates:
